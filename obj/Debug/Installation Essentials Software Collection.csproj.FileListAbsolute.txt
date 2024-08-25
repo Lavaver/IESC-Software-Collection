@@ -1,0 +1,10 @@
+D:\repos\Installation Essentials Software Collection\bin\Debug\Installation Essentials Software Collection.exe.config
+D:\repos\Installation Essentials Software Collection\bin\Debug\Installation Essentials Software Collection.exe
+D:\repos\Installation Essentials Software Collection\bin\Debug\Installation Essentials Software Collection.pdb
+D:\repos\Installation Essentials Software Collection\obj\Debug\Installation Essentials Software Collection.csproj.AssemblyReference.cache
+D:\repos\Installation Essentials Software Collection\obj\Debug\Installation Essentials Software Collection.csproj.CoreCompileInputs.cache
+D:\repos\Installation Essentials Software Collection\obj\Debug\Installation Essentials Software Collection.exe
+D:\repos\Installation Essentials Software Collection\obj\Debug\Installation Essentials Software Collection.pdb
+D:\repos\Installation Essentials Software Collection\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\repos\Installation Essentials Software Collection\obj\Debug\Installation Essentials Software Collection.csproj.Fody.CopyLocal.cache
+D:\repos\Installation Essentials Software Collection\obj\Debug\Installa.BF8BF87B.Up2Date
